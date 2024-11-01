@@ -1,1 +1,2 @@
 # Banking.App
+This project is a comprehensive guide to building and deploying a full-featured banking app using Next.js 14. The app includes a finance management dashboard that enables users to connect multiple bank accounts, view real-time transactions, and transfer funds to other users within the platform. This project demonstrates best practices for developing scalable, SEO-optimized web applications with Next.js, covering everything from frontend design to backend integration and deployment.
